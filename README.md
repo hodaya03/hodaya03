@@ -15,9 +15,13 @@ I have experience in developing practical projects, including a digital library 
 Languages & Frameworks:
 
 Frontend: Angular, React, TypeScript, JavaScript
+
 Backend: NestJS, Node.js, C#, C++
+
 Databases: SQL, MongoDB
+
 Cloud Services: AWS S3
+
 Development Tools:
 
 GitHub, SourceTree, Postman, Virtual Machine
