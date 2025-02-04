@@ -32,17 +32,23 @@ Visual Studio Code, Visual Studio, SQL Server
 📚 Digital Library System (DiversiTech)
 
 A web-based library system for an educational institution.
+
 🔹 Technologies: Angular, NestJS, MongoDB, AWS S3
+
 🔹 Features: User authentication, book management, favorite books, cloud file storage
+
+🔹 GitHub Repo: https://github.com/diversi-tech/merhavit-front   
 
 🖥 Windows App - .NET Mini Project
 
 A Windows-based mini project developed using C# and .NET.
+
 🔹 Technologies: C#, .NET
 
 📚 Education
 
 🎓 Software Engineering Track (2022-2024) - Academic Center Lev (MAHAT)
+
 🎓 B.Ed in Computer Science Education (In progress)
 
 🌍 Languages
