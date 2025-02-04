@@ -3,6 +3,7 @@
 📍 Israel | 📧 hodaya764@walla.co.il
 
 💡 About Me
+
 I’m a passionate Full-Stack Developer with hands-on experience in Angular, React, NestJS, Node.js, and .NET. I enjoy building scalable web applications, solving complex problems, and constantly learning new technologies.
 
 I have experience in developing practical projects, including a digital library system and other web applications using MongoDB, SQL, AWS S3, and cloud technologies.
