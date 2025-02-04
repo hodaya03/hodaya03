@@ -1,5 +1,7 @@
 👋 Hi, I'm Hodaya Biton!
+
 🚀 Software Engineer | Full-Stack Developer
+
 📍 Israel | 📧 hodaya764@walla.co.il
 
 💡 About Me
@@ -9,6 +11,7 @@ I’m a passionate Full-Stack Developer with hands-on experience in Angular, Rea
 I have experience in developing practical projects, including a digital library system and other web applications using MongoDB, SQL, AWS S3, and cloud technologies.
 
 🛠 Tech Stack
+
 Languages & Frameworks:
 
 Frontend: Angular, React, TypeScript, JavaScript
@@ -19,21 +22,27 @@ Development Tools:
 
 GitHub, SourceTree, Postman, Virtual Machine
 Visual Studio Code, Visual Studio, SQL Server
+
 🌟 Projects
+
 📚 Digital Library System (DiversiTech)
+
 A web-based library system for an educational institution.
 🔹 Technologies: Angular, NestJS, MongoDB, AWS S3
 🔹 Features: User authentication, book management, favorite books, cloud file storage
 
 🖥 Windows App - .NET Mini Project
+
 A Windows-based mini project developed using C# and .NET.
 🔹 Technologies: C#, .NET
 
 📚 Education
+
 🎓 Software Engineering Track (2022-2024) - Academic Center Lev (MAHAT)
 🎓 B.Ed in Computer Science Education (In progress)
 
 🌍 Languages
+
 🇮🇱 Hebrew - Native | 🇬🇧 English - High level
 
 
