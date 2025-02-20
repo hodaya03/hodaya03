@@ -27,6 +27,7 @@ A platform that suggests gifts based on budget constraints.
 
 🔹 **Technologies:** React, Node.js, MySQL  
 🔹 **Features:**  
+🔹 **GitHub Repo:** [finalProject-gifts](https://github.com/hodaya03/finalProject-gifts)  
   - Developed a platform that suggests gifts based on budget constraints.  
   - Implemented a robust backend to handle transactions and recommendations efficiently.  
 
