@@ -9,23 +9,33 @@ I’m a passionate Full-Stack Developer with hands-on experience in Angular, Rea
 *   🌍  I'm based in Israel
 *   ✉️  You can contact me at [hodaya764@walla.co.il](mailto:hodaya764@walla.co.il)<a href="https://www.github.com/hodaya03" target="_blank" rel="noreferrer">
 
-🌟 Projects
+---
 
-📚 Digital Library System (DiversiTech)
+## 🌟 Projects  
 
-A web-based library system for an educational institution.
+### 📚 Digital Library System (DiversiTech)  
+A web-based library system for an educational institution.  
 
-🔹 Technologies: Angular, NestJS, MongoDB, AWS S3
+🔹 **Technologies:** Angular, NestJS, MongoDB, AWS S3  
+🔹 **Features:** User authentication, book management, favorite books, cloud file storage  
+🔹 **GitHub Repo:** [https://github.com/diversi-tech/merhavit-front](https://github.com/diversi-tech/merhavit-front)  
 
-🔹 Features: User authentication, book management, favorite books, cloud file storage
+---
 
-🔹 GitHub Repo: https://github.com/diversi-tech/merhavit-front   
+### 🎁 Graduation Project - Gift Recommendation Platform  
+A platform that suggests gifts based on budget constraints.  
 
-🖥 Windows App - .NET Mini Project
+🔹 **Technologies:** React, Node.js, MySQL  
+🔹 **Features:**  
+  - Developed a platform that suggests gifts based on budget constraints.  
+  - Implemented a robust backend to handle transactions and recommendations efficiently.  
 
-A Windows-based mini project developed using C# and .NET.
+---
 
-🔹 Technologies: C#, .NET
+### 🖥 Windows App - .NET Mini Project  
+A Windows-based mini project developed using C# and .NET.  
+
+🔹 **Technologies:** C#, .NET  
 
 ### Skills  
 <p align="left">
