@@ -40,10 +40,9 @@ A Windows-based mini project developed using C# and .NET.
 
 ---
 
-### Exercises  
+###  Exercises  
 🔹 **GitHub Repo:** [get-to-100](https://github.com/hodaya03/exercises-get-to-100)  
-🔹 **GitHub Repo:** [posts-to-dev](https://github.com/hodaya03/exercises-posts_to_dev)
-
+🔹 **GitHub Repo:** [posts-to-dev](https://github.com/hodaya03/exercises-posts_to_dev)  
 🔹 **GitHub Repo:** [keyboard](https://github.com/hodaya03/exercises-keyboard)  
 🔹 **GitHub Repo:** [car-rental-form](https://github.com/hodaya03/exercises-car-rental-form)  
 
