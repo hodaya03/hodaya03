@@ -38,13 +38,10 @@ A Windows-based mini system built using C# and .NET, following MVC architecture.
 
 🔹 **Technologies:** C#, .NET, WPF, XML  
 🔹 **Features:**  
-Task management and simulation
-
-Multi-threading for background processing
-
-Data storage using XML
-
-Applied design patterns (Factory, Singleton)
+🔹Task management and simulation
+🔹Multi-threading for background processing
+🔹Data storage using XML
+🔹Applied design patterns (Factory, Singleton)
 
 
 
