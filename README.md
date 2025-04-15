@@ -33,10 +33,21 @@ A platform that suggests gifts based on budget constraints.
 
 ---
 
-### 🖥 Windows App - .NET Mini Project  
-A Windows-based mini project developed using C# and .NET.  
+### 🖥 .NET Mini Project – Windows Desktop App 
+A Windows-based mini system built using C# and .NET, following MVC architecture.
 
-🔹 **Technologies:** C#, .NET  
+🔹 **Technologies:** C#, .NET, WPF, XML  
+🔹 **Features:**  
+Task management and simulation
+
+Multi-threading for background processing
+
+Data storage using XML
+
+Applied design patterns (Factory, Singleton)
+
+
+
 
 ---
 
