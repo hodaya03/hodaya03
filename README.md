@@ -42,6 +42,7 @@ A Windows-based mini system built using C# and .NET, following MVC architecture.
 🔹Multi-threading for background processing
 🔹Data storage using XML
 🔹Applied design patterns (Factory, Singleton)
+
 🔹 **GitHub Repo:** [.NET Mini Project](https://github.com/sYosefi/dotNet5784_5100_2542)  
 
 
