@@ -18,7 +18,7 @@ A web-based library system for an educational institution.
 
 🔹 **Technologies:** Angular, NestJS, MongoDB, AWS S3  
 🔹 **Features:** User authentication, book management, favorite books, cloud file storage  
-🔹 **GitHub Repo:** [merhavit-front](https://github.com/diversi-tech/merhavit-front)  
+
 
 ---
 
