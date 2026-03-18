@@ -70,7 +70,7 @@ A Windows-based mini system built using C# and .NET, following MVC architecture.
 <a href="https://www.github.com/hodaya03" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/hodaya-biton-b67a7a348" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/hodaya-biton764/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
 </a>
 
